@@ -1,0 +1,1 @@
+This server code is based on Spring boot and uses the Spring Data JPA to access the database. The server is a RESTful API that can be used to access the data in the database. The server is also used to run the data processing scripts.
